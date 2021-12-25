@@ -14,7 +14,7 @@
     "autoload": {
         "files": [],
         "psr-4": {
-            "framework\\": "src/framework/"
+            "Framework\\": "src/framework/"
         }
     },
     "minimum-stability": "dev",
