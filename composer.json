@@ -1,0 +1,25 @@
+{
+    "name": "mu/framework",
+    "description": "The ThinkPHP Framework.",
+    "keywords": [
+        "framework",
+        "thinkphp",
+        "ORM"
+    ],
+    "homepage": "http://thinkphp.cn/",
+    "license": "Apache-2.0",
+    "require": {
+    },
+    "require-dev": {},
+    "autoload": {
+        "files": [],
+        "psr-4": {
+            "framework\\": "src/framework/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true
+    }
+}
