@@ -12,7 +12,9 @@
     },
     "require-dev": {},
     "autoload": {
-        "files": [],
+        "files": [
+            "src/framework/helper.php"
+        ],
         "psr-4": {
             "Framework\\": "src/framework/"
         }
